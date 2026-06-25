@@ -479,9 +479,9 @@ Created as a comprehensive learning path for aspiring full-stack Python develope
 
 **Questions or feedback?**
 
-- 📧 Email: [your-email@example.com]
-- 💬 LinkedIn: [your-linkedin-profile]
-- 🐙 GitHub: [your-github-profile]
+- 📧 Email: m68802390@gmail.com
+- 💬 LinkedIn: www.linkedin.com/in/nimra-asif-5a804b371
+
 
 ---
 
