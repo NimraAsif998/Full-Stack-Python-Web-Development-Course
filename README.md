@@ -1,4 +1,4 @@
-![Banner](course-banner.png)
+![Banner](Course-Banner.png)
 # 🚀 Full-Stack Python Web Development Roadmap
 
 > A comprehensive, structured learning path to become a production-ready full-stack developer using Python, covering 50+ technologies across 5 progressive modules.
