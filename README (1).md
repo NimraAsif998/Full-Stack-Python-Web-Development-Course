@@ -1,3 +1,4 @@
+![Lecture 01](./Lecture-01.png)
 # Programming Fundamentals
 
 **Author:** Nimra Asif  
