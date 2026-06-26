@@ -1,4 +1,4 @@
-![Lecture-02 (2)](./Lecture-02 (2).png)
+![Lecture-02](./Lecture-02.png)
 
 # Introduction to Python
 
