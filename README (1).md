@@ -54,7 +54,7 @@ High-level languages are **close to human language** and use English-like syntax
 - Hardware-independent
 - **Examples:** C, C++, Python, Java, C#, COBOL, etc.
 
-### Physical Components of a Computer
+### Physical Components of a Computer(Hardware Architecture)
 - **CPU** (Central Processing Unit)
 - **RAM** (Random Access Memory)
 - **I/O devices** (Input/Output)
@@ -84,6 +84,23 @@ Translators convert programs from one language to another. There are two main ty
 A **program** is a set of instructions written in a programming language that directs a computer to perform specific tasks.
 
 ---
+
+## What is a Source Program?
+
+A program written in a high-level programming language is called a **source program** or **source code**.
+
+Examples:
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World");
+    return 0;
+}
+```
+
+The above C program is an example of source code.
 
 ## File Extensions
 
@@ -118,6 +135,8 @@ Script languages **cannot execute independently**. They are:
 **Examples:**
 - **JavaScript:** Interactive web pages for automation and scripting (used with HTML)
 - Other scripting languages are often embedded in different applications
+  
+  # Note: Many scripting languages, such as Python and PHP, can also execute independently.
 
 ---
 
