@@ -9,3 +9,6 @@ Whether you're starting your programming journey or enhancing your development s
 📌 Check the **Course Roadmap** file to see the complete learning path and course structure.
 
 Happy Coding! 🐍✨
+
+# If you want to listen the lectures for better understanding than this youtube channal / playlist is for you
+https://www.youtube.com/playlist?list=PLK5vhlA1-xXs
