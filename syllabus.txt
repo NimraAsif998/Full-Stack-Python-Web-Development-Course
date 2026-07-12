@@ -1,0 +1,4 @@
+comments
+print something in display/screen
+user input
+variables -> declartion,initlization
