@@ -11,4 +11,7 @@
 ### Membership Operators
 ### Bitwise Operators (Introduction)
 ### Beginner-Friendly Examples
-### Mini Coding Task for Practice(build calculator)
+### Mini Coding Task for Practice(build calculator) 
+
+# PreRequistics
+## Type every example yourself  never copy-paste while learning
