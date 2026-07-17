@@ -5,6 +5,7 @@
 ### Implicit Type Conversion
 ### Explicit Type Conversion
 ### int(), float(), str(), bool() Functions
+### why str() not convert in int() , float()
 
 # question1 : 
 #### Create a variable x with the integer value 1
